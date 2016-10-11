@@ -1,0 +1,18 @@
+Quick list of possible topics to work on
+----------------------------------------
+
+- Make spectra/column densities (trident?)
+
+- interactive volume rendering (youtube uploads)
+
+- high resolution dark matter -> plots/analysis ("non-standard" yt data format)
+
+- time dependent data ("non-standard" yt data format)
+
+- interactive slice plots
+
+- computing power spectrum/correlation functions
+
+- halo/clump finding
+
+- interactive yt to debug a sim
